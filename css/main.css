@@ -196,6 +196,7 @@ body {
 .landing img{
 /*   background-image:url(../images/imge.jpg); */
   background-size: cover;
+  min-width:100%;
   height: calc(100vh - 66px);
   position: relative;
 }
